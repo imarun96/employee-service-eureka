@@ -21,6 +21,10 @@ import com.netflix.discovery.shared.Application;
 @RestController
 public class WelcomeController {
 
+<<<<<<< SBR-1
+
+=======
+>>>>>>> master
 	@Autowired
 	private EurekaClient eurekaClient;
 
